@@ -1,5 +1,5 @@
 # house-price-prediction
-Pratice house price prediction via classic ML methods.
+Practice house price prediction via classic ML methods.
 
 Description
 ---
